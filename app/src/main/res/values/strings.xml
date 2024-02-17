@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GrivViewListView</string>
+    <string name="textCont">"\nVideo Graphic "</string>
+    <string name="textDesc">product Description</string>
+</resources>
